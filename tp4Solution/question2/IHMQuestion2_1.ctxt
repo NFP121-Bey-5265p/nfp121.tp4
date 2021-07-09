@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=IHMQuestion2_1
+comment1.params=
+comment1.target=IHMQuestion2_1()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\ mehode1\:\ 3\ inner\ classes\ implementing\ ActionListener.\r\n\ private\ class\ ButtonHandlerA\ implements\ ActionListener{\r\n\ \ \ \ \ \ \ \ public\ void\ actionPerformed(ActionEvent\ event){\r\n\ \ \ \ \ \ \ \ contenu.appendText("observateur\ jbo1\:\ clic\ du\ boutonA"+"\\n");\r\n\ \ \ \ \ \ \ \ contenu.appendText("observateur\ jbo2\:\ clic\ du\ boutonA"+"\\n");\r\n\ \ \ \ \ \ \ \ contenu.appendText("observateur\ jbo3\:\ clic\ du\ boutonA"+"\\n");\r\n\ \ \ \ }\r\n\ \ \ \ }\ \ \r\n\ \ \ \ private\ class\ ButtonHandlerB\ implements\ ActionListener{\r\n\ \ \ \ public\ void\ actionPerformed(ActionEvent\ event){\r\n\ \ \ \ contenu.appendText("observateur\ jbo1\:\ clic\ du\ boutonB"+"\\n");\r\n\ \ \ \ contenu.appendText("observateur\ jbo2\:\ clic\ du\ boutonB"+"\\n");\r\n\ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n\ \ \ \ private\ class\ ButtonHandlerC\ implements\ ActionListener{\r\n\ \ \ \ public\ void\ actionPerformed(ActionEvent\ event){\r\n\ \ \ \ contenu.appendText("observateur\ jbo1\:\ clic\ du\ boutonC"+"\\n");\r\n\ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+numComments=3
